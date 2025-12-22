@@ -5,6 +5,8 @@
  * @lastTransferAmount: last Transfer Amount.
  * Return: void
  */
+
+//akash comment 
 void transferMoney(double* balance, double* lastTransferAmount)
 {
 	char accountName[MAX_LENGTH], accountNumber[MIN_LENGTH], bank[MAX_LENGTH];
