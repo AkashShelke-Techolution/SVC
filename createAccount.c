@@ -3,6 +3,7 @@
  * createAccount - creates account of user
  * Return: void
  */
+//comment added by akash
 void createAccount()
 {
 	char fullName[MAX_LENGTH];
