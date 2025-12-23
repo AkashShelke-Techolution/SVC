@@ -1,6 +1,6 @@
 #ifndef BWAVE_H
 #define BWAVE_H
-//akash added this to test automatic trigger in qa test
+//akash added this to test automatic trigger in qa test smart sync
 #include <stdio.h>
 #include <string.h>
 #include <time.h>
