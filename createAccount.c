@@ -3,7 +3,7 @@
  * createAccount - creates account of user
  * Return: void
  */
-//comment added by akash
+//comment added by akash for automatic smart sync
 void createAccount()
 {
 	char fullName[MAX_LENGTH];
